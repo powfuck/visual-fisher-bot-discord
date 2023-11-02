@@ -10,9 +10,6 @@ Auto fishing bot made in Python 3 for [Virtual Fisher](https://virtualfisher.com
 
 **Note**: the **experimental-2.0.0** (current) version is still under development, if you are having problems, a stable release (**1.2.1.1**) can be found [here](assets/stable-legacy/stable-1.2.1.1.zip).
 
-## Demo
-![demo](assets/images/demo.gif)
-
 ## Requirements
 - Python [3.10.6](https://www.python.org/downloads/release/python-3106/) or [later versions](https://www.python.org/downloads/)
 - [Git](https://git-scm.com/downloads) (optional)
@@ -98,11 +95,6 @@ The methodology is quite straight forward, when a new captcha is detected:
 If all tests fail, a request to regenerate the captcha will be sent (up to 3 times). If the bot, ultimately, fails to solve all captchas, it will wait until you solve it manually.
 
 Keep in mind that the captcha detection method is not flawless, unexpected events can cause some unusual behavior that could influence detection accuracy. Therefore, it should not be left alone without monitoring for longer periods of time.
-### Demo (normal)
-![captcha-demo](assets/images/captcha-demo.gif)
-
-### Demo (with regen)
-![captcha-demo-wrong-code](assets/images/captcha-with-regen.gif)
 
 ### HOW DO I GET MY **FREE** KEY ?
 
