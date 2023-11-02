@@ -1,4 +1,4 @@
-# AFB - Autofishbot
+# POWFU - Autofishbot
 Auto fishing bot made in Python 3 for [Virtual Fisher](https://virtualfisher.com/) Discord bot.
 
 ## Features
@@ -18,9 +18,10 @@ Auto fishing bot made in Python 3 for [Virtual Fisher](https://virtualfisher.com
 (**With** Git) 
 - Using the terminal, type:
 ```bash
-git clone https://github.com/thejoabo/autofishbot.git
+git clone https://github.com/powfuck/visual-fisher-bot-discord.git
 cd autofishbot
 python -m pip install -r requirements.txt
+Run run.bat
 ```
 (**Without** Git)
 - Download the repository [here](https://github.com/powfuck/visual-fisher-bot-discord/archive/refs/heads/main.zip)
